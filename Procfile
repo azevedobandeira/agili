@@ -1,1 +1,1 @@
-web: agili/bin/heroku-php-apache2 puclic/
+web: vendor/bin/heroku-php-apache2 puclic/
